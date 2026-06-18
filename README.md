@@ -1,16 +1,55 @@
+# はじめまして
+
 ## Hi there 👋
 
-<!--
-**kumiakiyama-builds/kumiakiyama-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+C# / ASP.NET Core / PostgreSQL を中心に、Webアプリケーション開発を学んでいます。
 
-Here are some ideas to get you started:
+職業訓練校では、チーム開発によるWebアプリケーション制作を経験しました。
+現在は、チーム開発で作成したアプリケーションの改善と、個人開発プロジェクトの設計・実装に取り組んでいます。
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## About Me
+
+* Webアプリケーション開発を学習しています
+* C# / ASP.NET Core / PostgreSQL を中心に学んできました
+* 個人事業でWebメディア運営・コンテンツ設計・改善運用を経験してきました
+* ユーザー視点、情報整理、継続的な改善を大切にしています
+
+---
+
+## Projects
+
+### チアタス（2026.6）
+
+チーム開発の進捗管理を支援するWebアプリケーションです。
+
+職業訓練校の最後の演習であるチーム開発課題として、製作期間3週間・6名チームで企画・設計・実装・発表まで行いました。
+私は主に、進行管理、プロダクト企画、要件定義、設計整理、データベース設計、ドキュメント作成、発表に関わりました。
+
+---
+
+## Focus
+
+### 1. チアタスの改善（2026.6～）
+
+チーム開発で作成したアプリケーションを、ポートフォリオとして見せられる品質に近づけるため、改善を進めています。
+
+* 画面UIの整理
+* READMEの充実
+* 機能の改善
+* 認証・権限まわりの整理
+
+### 2. 見積り比較アプリの開発（2026.7～）
+
+海外通販・個人輸入ユーザー向けに、転送業者や料金プランを比較できるWebアプリケーションを構想しています。
+
+管理画面、マスタデータ管理、検索機能、API設計、権限管理などを含む業務系Webアプリケーションとして設計・実装していく予定です。
+
+---
+
+## Links
+
+* Portfolio：準備中
+* Qiita：準備中
+* Zenn：準備中
